@@ -1,7 +1,7 @@
 # Multithread_Producer-Consumer
 Here I implemented a multithread system to create a simulation of the classic producer-consumer system for a cost calculator.
-The file received must have this format:\n
-########### \n
+The file received must have this format:
+###########
 500\n
 1 1 4\n
 2 2 12\n
